@@ -1,0 +1,60 @@
+.app-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('anyqironman.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -1;
+  pointer-events: none;
+  filter: brightness(0.8); /* Optional: dim background a little */
+}
+
+.AppContainer {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;      /* center horizontally */
+  justify-content: center;  /* center vertically */
+  padding: 40px 20px;
+  box-sizing: border-box;
+  gap: 40px;
+  background-color: #f8f8f8;
+}
+
+/* Search box centered and fixed size */
+.SearchBox {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Info box wraps the card and heading */
+.InfoBox {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Center heading */
+.InfoBox h1 {
+  margin-bottom: 16px;
+  text-align: center;
+  width: 100%;
+}
+
+/* Card itself: big and centered */
+.InfoBox .MuiCard-root {
+  width: 90vw !important;
+  max-width: 1000px !important;
+  margin: 0 auto;
+}
