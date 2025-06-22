@@ -18,3 +18,13 @@ This app allows users to search for any city and displays **live weather informa
 - 🌐 OpenWeatherMap API
 - 🎬 Tenor GIFs for animated backgrounds
 
+## 🌐 Live Website
+▶️ **[Visit the Live App](https://react-weather-app-git-main-ayush-guptas-projects-b7e497f1.vercel.app)**
+
+---
+
+## 🔗 Connect with Me
+- 📷 [Instagram](https://www.instagram.com/p/DLGDUJ8TsU_/?igsh=Z3BlMnU5dnh1aDho)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-gupta-58819527a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
